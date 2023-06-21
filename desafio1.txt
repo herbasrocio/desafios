@@ -1,0 +1,4 @@
+practica:
+1. se creo un nuevo repositorio.
+2. Se crea un readme y se comitea.
+3. se crea un nuevo archivo y se comitea.
