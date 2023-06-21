@@ -1,3 +1,6 @@
+cambios del desafio 2 //
+
+
 practica:
 1. se creo un nuevo repositorio.
 2. Se crea un readme y se comitea.
